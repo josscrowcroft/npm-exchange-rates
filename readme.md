@@ -6,6 +6,4 @@ nodeJS/npm wrapper for seamless server-side integration with the **[Open Exchang
 
 ## This repository has moved:
 
-**Homepage and Demo: https://openexchangerates.github.io/npm-exchange-rates**
-
-**GitHub repository: https://github.com/openexchangerates/npm-exchange-rates**
+**https://github.com/openexchangerates/npm-exchange-rates**
